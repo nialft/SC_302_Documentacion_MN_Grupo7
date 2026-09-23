@@ -1,1 +1,3 @@
 # SC_302_Documentacion_MN_Grupo7
+
+Esta es mi primera práctica con GitHub.
